@@ -1,0 +1,9 @@
+.env
+ormconfig.json
+.idea/
+.vscode/
+node_modules/
+build/
+temp/
+modules/template/
+hashcode.txt
